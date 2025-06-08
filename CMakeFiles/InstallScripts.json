@@ -1,0 +1,10 @@
+{
+	"InstallScripts" : 
+	[
+		"/mnt/pool/compile/openauto/cmake_install.cmake",
+		"/mnt/pool/compile/openauto/btservice_proto/cmake_install.cmake",
+		"/mnt/pool/compile/openauto/openauto/cmake_install.cmake",
+		"/mnt/pool/compile/openauto/autoapp/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
